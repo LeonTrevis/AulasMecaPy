@@ -1,1 +1,1 @@
-# AulasMecaPy
+# Repositorio para estudo de python
